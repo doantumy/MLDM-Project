@@ -5,6 +5,9 @@ The first main objective of this project is to implement different classificatio
  ![](gui/freq.png)
 
 # Installation
+For easy implementation, I have created Jupyter Notebooks for the project.
+
+# Data
 Due to the limit of file size for email attachment, we uploaded the following files onto Google Drive at the links below:
 
 1. CNN model
