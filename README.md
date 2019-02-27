@@ -1,3 +1,10 @@
+
+# Introduction
+The first main objective of this project is to implement different classification algorithms like KNN, CNN and several techniques in order to improve the speed and the quality of the algorithms for the MNIST dataset. For the second task, we have to apply data mining algorithms in order to mine frequent sequence on the dataset and show it on the test digits.
+
+ ![](gui/MNIST_new.png)
+
+# Installation
 Due to the limit of file size for email attachment, we uploaded the following files onto Google Drive at the links below:
 
 1. CNN model
